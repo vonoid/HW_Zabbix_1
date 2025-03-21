@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Название занятия`" - `Фамилия и имя студента`
+# Домашнее задание к занятию "`Система мониторинга Zabbix`" - `Заярченко Ивана`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -80,8 +80,17 @@
 
 ### Ответ.
 
+Cкриншот раздела Configuration > Hosts
 ![Hosts](https://github.com/vonoid/HW_Zabbix_1/blob/cb88030b32a04de5bd908f11de5f4452ace1c0eb/img/Hosts.jpg)
+
+Cкриншот лога zabbix agent виртуальной машины №1
 ![LogTest1](https://github.com/vonoid/HW_Zabbix_1/blob/cb88030b32a04de5bd908f11de5f4452ace1c0eb/img/logAgent1.jpg)
+
+Cкриншот лога zabbix agent виртуальной машины №2
 ![LogTest2](https://github.com/vonoid/HW_Zabbix_1/blob/cb88030b32a04de5bd908f11de5f4452ace1c0eb/img/logAgent2.jpg)
+
+Скриншот раздела Monitoring > Latest data для виртуальной машины №1
 ![MonitoringTest1](https://github.com/vonoid/HW_Zabbix_1/blob/cb88030b32a04de5bd908f11de5f4452ace1c0eb/img/MonitoringTest1.jpg)
+
+Скриншот раздела Monitoring > Latest data для виртуальной машины №2
 ![MonitoringTest2](https://github.com/vonoid/HW_Zabbix_1/blob/cb88030b32a04de5bd908f11de5f4452ace1c0eb/img/MonitoringTest2.jpg)
