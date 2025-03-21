@@ -54,9 +54,7 @@
 `systemctl restart zabbix-server zabbix-agent apache2
  systemctl enable zabbix-server zabbix-agent apache2`
 
-
-`При необходимости прикрепитe сюда скриншоты
-![Zabbix Dashboards](https://github.com/vonoid/HW_Zabbix_1/blob/c5f8a241f6d35471f8e2874cee62797b1d24c758/img/Zabbix_login.jpg)`
+![Zabbix Dashboards](https://github.com/vonoid/HW_Zabbix_1/blob/c5f8a241f6d35471f8e2874cee62797b1d24c758/img/Zabbix_login.jpg)
 
 
 ---
